@@ -1,4 +1,4 @@
-module github.com/scienti-id/scihttp
+module github.com/scienti-io/scihttp
 
 go 1.21.4
 
